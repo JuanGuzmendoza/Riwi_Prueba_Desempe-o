@@ -10,3 +10,17 @@ The project is an application that allows complete inventory management, from ad
 
 A main menu will be displayed which will be divided between the 3 main modules: inventory management, sales management and sales report management. Within each menu are the series of options previously mentioned.
 
+
+# libraries
+-Date 
+to be able to get the date of the day on which a book is sold
+
+# Commands to use
+
+
+# Git clone
+git clone https://github.com/JuanGuzmendoza/Riwi_Prueba_Desempe-o.git
+
+
+# Repository 
+https://github.com/JuanGuzmendoza/Riwi_Prueba_Desempe-o.git
